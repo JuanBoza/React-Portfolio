@@ -1,0 +1,52 @@
+
+html { 
+background-color: red; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover; 
+display: block; 
+}
+
+
+
+body { 
+  height: 100%; 
+  
+}
+
+
+main   { 
+  font-size: 25px; 
+  text-align: left; 
+  line-height: 50px; 
+  border: 3px solid black; 
+  width: 75%; 
+  background-color: black; 
+  background-color: rgba(255,255,255,0.5);
+  position: absolute; 
+  left: 50%;
+  top: 25%; 
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%); 
+  margin: 0;
+  position: absolute;  
+  padding-bottom: 25px; 
+  padding-top: 25px; 
+} 
+
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+#root > div,
+div[data-reactroot] {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+

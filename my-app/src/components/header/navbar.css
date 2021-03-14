@@ -5,4 +5,11 @@ header h1 {
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: rgb(207, 200, 200);
     text-align: center; 
+    background-color: antiquewhite;
+    color:rgb(231, 2, 2);
+}
+
+.nav {
+    color: red;
+    background-color: brown;
 }
