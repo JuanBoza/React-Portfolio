@@ -7,6 +7,9 @@ import colorpicker from "../images/colorpicker.png";
 import notetaker from "../images/notetaker.png"
 import dayplanner from "../images/dayplanner.png"
 import slipperyslopes from "../images/slipperyslopes.png"
+import Refractor from"../images/Refractor.png"
+import generator from "../images/generator.png"
+import weather from "../images/weather.png"
 import Navbar from 'react-bootstrap/Navbar';
 import "./Resources.css"
 
@@ -67,6 +70,41 @@ function Resources() {
     </Card.Body>
   </Card>
 </CardGroup>
+<br>
+</br>
+<CardGroup>
+<Card>
+    <Card.Img src={Refractor}  size="80px160" />
+    <Card.Body>
+      <Card.Title>Code Refractor</Card.Title>
+      <Navbar.Brand href="https://github.com/JuanBoza/Code-Refractor-">Github repository</Navbar.Brand>
+      <br>
+      </br>
+      <Navbar.Brand href="https://juanboza.github.io/Code-Refractor-/">Deployed Site</Navbar.Brand>
+    </Card.Body>
+  </Card>
+  <Card>
+    <Card.Img src={generator}  size="80px160" />
+    <Card.Body>
+      <Card.Title>Password Generator</Card.Title>
+      <Navbar.Brand href="https://github.com/JuanBoza/Password-Generator-">Github repository</Navbar.Brand>
+      <br>
+      </br>
+      <Navbar.Brand href="https://juanboza.github.io/Password-Generator-/">Deployed Site</Navbar.Brand>
+    </Card.Body>
+  </Card>
+  <Card>
+    <Card.Img src={weather}  size="80px160" />
+    <Card.Body>
+      <Card.Title>Weather Dashboard</Card.Title>
+      <Navbar.Brand href="https://github.com/JuanBoza/Weather-Dashboard">Github repository</Navbar.Brand>
+      <br>
+      </br>
+      <Navbar.Brand href="https://juanboza.github.io/Weather-Dashboard/">Deployed Site</Navbar.Brand>
+    </Card.Body>
+  </Card>
+  </CardGroup>
+
     </Container>
   );
 }
