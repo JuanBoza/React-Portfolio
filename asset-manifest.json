@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abffa928.chunk.css",
+    "main.js": "/static/js/main.e18cc39b.chunk.js",
+    "main.js.map": "/static/js/main.e18cc39b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.406dd86f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.406dd86f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dbe9578a.chunk.js": "/static/js/2.dbe9578a.chunk.js",
+    "static/js/2.dbe9578a.chunk.js.map": "/static/js/2.dbe9578a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.abffa928.chunk.css.map": "/static/css/main.abffa928.chunk.css.map",
+    "static/js/2.dbe9578a.chunk.js.LICENSE.txt": "/static/js/2.dbe9578a.chunk.js.LICENSE.txt",
+    "static/media/Refractor.52d82abf.png": "/static/media/Refractor.52d82abf.png",
+    "static/media/colorpicker.df0bc7c4.png": "/static/media/colorpicker.df0bc7c4.png",
+    "static/media/dayplanner.353b7867.png": "/static/media/dayplanner.353b7867.png",
+    "static/media/generator.4022987f.png": "/static/media/generator.4022987f.png",
+    "static/media/notetaker.ffc73e80.png": "/static/media/notetaker.ffc73e80.png",
+    "static/media/slipperyslopes.d0e19278.png": "/static/media/slipperyslopes.d0e19278.png",
+    "static/media/weather.f9e9a03b.png": "/static/media/weather.f9e9a03b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406dd86f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dbe9578a.chunk.js",
+    "static/css/main.abffa928.chunk.css",
+    "static/js/main.e18cc39b.chunk.js"
+  ]
+}
