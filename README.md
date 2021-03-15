@@ -23,6 +23,7 @@ A portfolio built in a react enviorment
   * npm start to run 
   
 # Screenshots 
+![Screenshot (57)](https://user-images.githubusercontent.com/70541910/111090106-1ab6b400-84f4-11eb-9a35-6c4fa11334ca.png)
 
 
 
