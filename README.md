@@ -1,4 +1,4 @@
-# React-Portfolio
+# React Portfolio
 A portfolio built in a react enviorment 
 
 # Requirments 
@@ -30,4 +30,4 @@ A portfolio built in a react enviorment
 # links 
   
   * Github repository: https://github.com/JuanBoza/React-Portfolio
-  * Deployed application:
+  * Deployed application:https://juanboza.github.io/React-Portfolio/
