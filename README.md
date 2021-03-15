@@ -28,5 +28,5 @@ A portfolio built in a react enviorment
 
 # links 
   
-  * Github repository: 
+  * Github repository: https://github.com/JuanBoza/React-Portfolio
   * Deployed application:
