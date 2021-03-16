@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://https:juanboza.github.io/React-Portfolio/App.js",
+  "homepage": "https://juanboza.github.io/React-Portfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
